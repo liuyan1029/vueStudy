@@ -18,7 +18,7 @@ const routes: Array<RouteRecordRaw> = [
   {
     path: '/big-wheel',
     name: 'bigWheel',
-    component: () => import('../views/BigWheel.vue'),
+    component: () => import(/* webpackChunkName: "BigWheel" */ '../views/BigWheel.vue'),
   },
 ];
 
