@@ -36,6 +36,7 @@ import prizeVue from './prize.vue';
 //   width: 300,
 //   height: 300,
 // });
+
 const props = defineProps({
   plate: {
     type: String,
