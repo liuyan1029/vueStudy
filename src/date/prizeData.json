@@ -1,0 +1,51 @@
+[
+  {
+    "prizeName": "实物奖品1",
+    "prizeDesc": "",
+    "prizePic": "https://img10.360buyimg.com/imgzone/jfs/t1/203379/20/8999/7312/61553b7eEc1fd79a1/708f15e718d499b7.jpg",
+    "prizeType": 1,
+    "prizeId": 0
+  }, {
+    "prizeName": "优惠券",
+    "prizeDesc": "200",
+    "prizePic": "",
+    "prizeType": 2,
+    "prizeId": 1
+  }, {
+    "prizeName": "再来一次",
+    "prizeDesc": "再来一次",
+    "prizePic": "",
+    "prizeType": 4,
+    "prizeId": 2
+  }, {
+    "prizeName": "京豆",
+    "prizeDesc": "20",
+    "prizePic": "",
+    "prizeType": 3,
+    "prizeId": 3
+  }, {
+    "prizeName": "实物商品2",
+    "prizeDesc": "",
+    "prizePic": "https://img10.360buyimg.com/imgzone/jfs/t1/108864/20/16211/7629/61553b9bE3331d7b8/2b602a00cca599f5.jpg",
+    "prizeType": 1,
+    "prizeId": 4
+  }, {
+    "prizeName": "优惠券",
+    "prizeDesc": "100",
+    "prizePic": "",
+    "prizeType": 2,
+    "prizeId": 5
+  }, {
+    "prizeName": "谢谢参与",
+    "prizeDesc": "谢谢参与",
+    "prizePic": "",
+    "prizeType": -1,
+    "prizeId": 6
+  }, {
+    "prizeName": "京豆",
+    "prizeDesc": "50",
+    "prizePic": "",
+    "prizeType": 3,
+    "prizeId": 7
+  }
+]
